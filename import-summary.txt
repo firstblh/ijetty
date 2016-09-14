@@ -1,0 +1,61 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* default.properties
+* deploy.sh
+* pom.xml
+* resources/
+* resources/i-jetty-logo-green.svg
+* resources/i-jetty-logo.svg
+* resources/ijetty_icon.svg
+* resources/ijetty_icon_abstract.svg
+* resources/ijetty_icon_abstract_2.svg
+* resources/ijetty_icon_abstract_3.svg
+* resources/ijetty_icon_abstract_4.svg
+* resources/ijetty_icon_abstract_5.svg
+* resources/ijetty_icon_abstract_6.svg
+* resources/ijetty_icon_i_dot_j.svg
+* resources/ijetty_icon_i_in_j_start.svg
+* resources/ijetty_icon_i_j.svg
+* resources/ijetty_icon_i_j_colon.svg
+* resources/ijetty_icon_j_start.svg
+* resources/ijetty_icon_simple.svg
+* resources/ijetty_stat.svg
+* resources/jetty-logo.svg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/.DS_Store => app/src/main/resources/.DS_Store
+* src/org/.DS_Store => app/src/main/resources/org/.DS_Store
+* src/org/mortbay/.DS_Store => app/src/main/resources/org/mortbay/.DS_Store
+* src/org/mortbay/ijetty/.DS_Store => app/src/main/resources/org/mortbay/ijetty/.DS_Store
+* src/org/mortbay/ijetty/handler/.DS_Store => app/src/main/resources/org/mortbay/ijetty/handler/.DS_Store
+* src/org/mortbay/ijetty/util/.DS_Store => app/src/main/resources/org/mortbay/ijetty/util/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

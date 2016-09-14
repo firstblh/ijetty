@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="translucent_dark">#99000000</color>
+    <color name="translucenter_dark">#bf000000</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="mid_blue">#3658bf</color>
+
+
+    <color name="color_normal_btn">#884421</color>>
+    <color name="color_normal_click">#673421</color>>
+    <color name="color_normal_enable">#673444</color>>
+    <color name="color_white">#ffffff</color>>
+</resources>

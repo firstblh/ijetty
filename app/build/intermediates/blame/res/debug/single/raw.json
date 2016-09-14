@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/raw/webdefault",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/raw/webdefault"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/raw/keystore",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/raw/keystore"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/raw/realm_properties",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/raw/realm_properties"
+    }
+]

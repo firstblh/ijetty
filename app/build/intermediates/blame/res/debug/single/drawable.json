@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable/microsd_warn.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable/microsd_warn.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable/selector_btn_bg.xml",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable/selector_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable/ijetty_logo.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable/ijetty_logo.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable/icon_logo.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable/icon_logo.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable/icon.png"
+    }
+]

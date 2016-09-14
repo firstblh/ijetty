@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/firstblh/Github/i-jetty-ui/app/libs/i-jetty-server-3.2-SNAPSHOT-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ab49c7c766f78865cd075f2eb88119573422b0fa">
+        <dex dex="/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/pre-dexed/debug/i-jetty-server-3.2-SNAPSHOT-jar-with-dependencies_a40901e6c9db4cf511fd3683c0fb90457f098228.jar" />
+    </item>
+    <item
+        jar="/Users/firstblh/Github/i-jetty-ui/app/libs/jetty-client-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="92a45068a2690fae0ea51bdd2d44b077753da579">
+        <dex dex="/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/pre-dexed/debug/jetty-client-7.6.0.RC4_1a06a5e19c8f3fbc7d5ce21d585ef3d5c0f8deb7.jar" />
+    </item>
+
+</items>

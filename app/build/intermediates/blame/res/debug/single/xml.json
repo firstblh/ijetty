@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/xml/ijetty_preference.xml",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/xml/ijetty_preference.xml"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/xml/ijetty_preference_froyo.xml",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/xml/ijetty_preference_froyo.xml"
+    }
+]

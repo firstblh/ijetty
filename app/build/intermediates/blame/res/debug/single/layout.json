@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/layout/screen_sd_unavailable.xml",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/layout/screen_sd_unavailable.xml"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/layout/jetty_downloader.xml",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/layout/jetty_downloader.xml"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/layout/jetty_controller.xml",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/layout/jetty_controller.xml"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/layout/service_toast.xml",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/layout/service_toast.xml"
+    }
+]

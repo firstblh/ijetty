@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ijetty_logo1.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-hdpi/ijetty_logo1.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_logo.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-hdpi/icon_logo.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ijetty_stat.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-hdpi/ijetty_stat.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ijetty_logo.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-hdpi/ijetty_logo.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon1.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-hdpi/icon1.png"
+    }
+]

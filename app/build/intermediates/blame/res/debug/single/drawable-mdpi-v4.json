@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ijetty_logo.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-mdpi/ijetty_logo.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ijetty_stat.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-mdpi/ijetty_stat.png"
+    },
+    {
+        "merged": "/Users/firstblh/Github/i-jetty-ui/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon_logo.png",
+        "source": "/Users/firstblh/Github/i-jetty-ui/app/src/main/res/drawable-mdpi/icon_logo.png"
+    }
+]
